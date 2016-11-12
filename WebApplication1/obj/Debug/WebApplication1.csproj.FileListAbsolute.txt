@@ -1,0 +1,8 @@
+D:\projects\EyeAndEar\WebApplication1\WebApplication1\bin\WebApplication1.dll
+D:\projects\EyeAndEar\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+D:\projects\EyeAndEar\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+D:\projects\EyeAndEar\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\projects\EyeAndEar\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\projects\EyeAndEar\WebApplication1\WebApplication1\bin\MySql.Data.dll
+D:\projects\EyeAndEar\WebApplication1\WebApplication1\bin\Common.dll
+D:\projects\EyeAndEar\WebApplication1\WebApplication1\bin\Common.pdb

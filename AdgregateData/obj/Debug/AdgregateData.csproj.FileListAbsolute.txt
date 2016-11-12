@@ -1,0 +1,9 @@
+D:\projects\EyeAndEar\WebApplication1\AdgregateData\bin\Debug\AdgregateData.exe.config
+D:\projects\EyeAndEar\WebApplication1\AdgregateData\bin\Debug\AdgregateData.exe
+D:\projects\EyeAndEar\WebApplication1\AdgregateData\bin\Debug\AdgregateData.pdb
+D:\projects\EyeAndEar\WebApplication1\AdgregateData\obj\Debug\AdgregateData.exe
+D:\projects\EyeAndEar\WebApplication1\AdgregateData\obj\Debug\AdgregateData.pdb
+D:\projects\EyeAndEar\WebApplication1\AdgregateData\obj\Debug\AdgregateData.csprojResolveAssemblyReference.cache
+D:\projects\EyeAndEar\WebApplication1\AdgregateData\bin\Debug\Common.dll
+D:\projects\EyeAndEar\WebApplication1\AdgregateData\bin\Debug\MySql.Data.dll
+D:\projects\EyeAndEar\WebApplication1\AdgregateData\bin\Debug\Common.pdb
